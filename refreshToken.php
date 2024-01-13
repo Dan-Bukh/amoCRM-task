@@ -4,7 +4,7 @@ $subdomain = 'daniilanatol9'; //Поддомен нужного аккаунта
 $link = 'https://' . $subdomain . '.amocrm.ru/oauth2/access_token'; //Формируем URL для запроса
 /** Соберем данные для запроса */
 $client_id = 'da7af0a7-816a-4877-b7ee-012aeb2f4baf';
-$client_secret = 'VQcJzk7JlFku9913SxBOlMdQKUhHufvQ9KTFvioGCGb7A2u6itUQRPb22AnwsfDD';
+$client_secret = '';
 $redirect_uri = 'https://example.com';
 
 
